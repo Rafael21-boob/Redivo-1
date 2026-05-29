@@ -1,3 +1,4 @@
+Rafael Sant' Anna dos Santos 3°A TEC TI
 1
 - Problema: Validação de titulo e reset de erros repetidos em multiplas funções.
 - Solução: Criada a função 'validateTaskData'.
